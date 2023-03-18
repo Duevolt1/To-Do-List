@@ -1,0 +1,18 @@
+li {
+  cursor: pointer;
+  margin-top: 5px;
+  color: black;
+  text-align: left;
+  border: 2px solid rgba(8, 7, 16, 0.6);
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 10px 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-backdrop-filter: blur(2px);
+          backdrop-filter: blur(2px);
+  transition: opacity 1s ease-out;
+}
+
+.lclass {
+  opacity: 0;
+}/*# sourceMappingURL=list.css.map */
